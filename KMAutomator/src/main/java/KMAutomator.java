@@ -12,10 +12,10 @@ import java.util.Arrays;
 public class KMAutomator {
     public static void main(String[] args) {
         // Create a JFrame (window) with title "Text Box Window"
-        JFrame frame = new JFrame("Text Box Window");
+        JFrame frame = new JFrame("KMAutomator");
 
         // Set the size of the window
-        frame.setSize(400, 300);
+        frame.setSize(1000, 500);
 
         // Create a JTextArea (text area) with alignment to top-left
         JTextArea textArea = new JTextArea();
