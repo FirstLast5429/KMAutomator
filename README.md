@@ -1,4 +1,5 @@
-# KMAutomatorkeyboard and mouse input emulator built on the IntelliJ IDEA platform.
+# KMAutomator 
+keyboard and mouse input emulator built on the IntelliJ IDEA platform.
 
 MouseLocation MouseXPos MouseYPos
 LeftMouseClick
