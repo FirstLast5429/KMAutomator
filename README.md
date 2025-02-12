@@ -1,5 +1,4 @@
-# KMAutomator
-A mainly command line interface-based keyboard and mouse input emulator built on the IntelliJ IDEA platform.
+# KMAutomatorkeyboard and mouse input emulator built on the IntelliJ IDEA platform.
 
 MouseLocation MouseXPos MouseYPos
 LeftMouseClick
